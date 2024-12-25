@@ -4,7 +4,7 @@ body{
     align-items: center;
     margin-right: 25px;
     min-height: 100vh;
-    background-image: url(/Navidad/PROJECT_A/img/christmas-tree-2928142_1280.jpg);
+    background-image: url(img/christmas-tree-2928142_1280.jpg);
     background-size: cover;
     background-position: center;
     overflow: hidden;
